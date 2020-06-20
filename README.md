@@ -70,11 +70,6 @@ Peanuts uses a number of open source projects to work properly:
 - [Joseph Low]
 - [Dhanush Kumar]
 
-
-<img src="https://d33wubrfki0l68.cloudfront.net/200d166fc3dff29e5b8a6703d8e83cc25821bcf4/10dd6/media/2018/08/kitten.jpg" alt="Kitten"
-	title="A cute kitten" width="150" height="100" />
-
-
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
 
@@ -100,4 +95,4 @@ Peanuts uses a number of open source projects to work properly:
    [PlGa]: <https://github.com/RahulHP/dillinger/blob/master/plugins/googleanalytics/README.md>
 
 
-   [![Link to proof of concept](https://appservice.azureedge.net/images/linux-landing-page/v3/python.svg)](https://flask-iot-   kitchen.azurewebsites.net/)
+  

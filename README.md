@@ -1,4 +1,4 @@
-[()]
+<img src = "peanutLogo.png" title = "Peanut" />
 >Insert logo here
 
 # Peanuts

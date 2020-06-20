@@ -1,4 +1,4 @@
-<img src = "peanutLogo.png" title = "Peanut" />
+<img src = "peanutLogo.png" title = "Peanut" width="200" height="200"/>
 >Insert logo here
 
 # Peanuts

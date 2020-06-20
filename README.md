@@ -1,5 +1,5 @@
 
-# Peanuts
+<div style="font-size:50px;"> Peanuts </div>
 
 <img src = "peanutLogo.png" title = "Peanut" width="200" height="200"/>
 

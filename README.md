@@ -11,8 +11,10 @@ Peanuts is a cloud-enabled, mobile-ready, offline-storage, azure web server powe
   2. Employs data-analytics magic to optimise your food consumption and grocery purchasing patterns
 
 ## Proof of concept demo
-
-[![Link to proof of concept](https://appservice.azureedge.net/images/linux-landing-page/v3/python.svg)](https://flask-iot-kitchen.azurewebsites.net/)
+<a href = "https://flask-iot-kitchen.azurewebsites.net/">
+<img src="https://appservice.azureedge.net/images/linux-landing-page/v3/python.svg" alt="Kitten"
+	title="Proof of concept" width="150" height="100" />
+</a>
 
 ## Video demo
 
@@ -97,3 +99,6 @@ Peanuts uses a number of open source projects to work properly:
    [PlOd]: <https://github.com/joemccann/dillinger/tree/master/plugins/onedrive/README.md>
    [PlMe]: <https://github.com/joemccann/dillinger/tree/master/plugins/medium/README.md>
    [PlGa]: <https://github.com/RahulHP/dillinger/blob/master/plugins/googleanalytics/README.md>
+
+
+   [![Link to proof of concept](https://appservice.azureedge.net/images/linux-landing-page/v3/python.svg)](https://flask-iot-   kitchen.azurewebsites.net/)
